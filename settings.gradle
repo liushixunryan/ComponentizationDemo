@@ -1,0 +1,9 @@
+include ':annotation_compiler'
+include ':annotation'
+include ':arouter'
+include ':common'
+include ':basic'
+include ':member'
+include ':login'
+include ':app'
+rootProject.name = "HttpUtil"
